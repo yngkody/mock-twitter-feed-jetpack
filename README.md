@@ -9,3 +9,4 @@ Here, I demonstrate how to build a mock Twitter Feed in Jetpack Compose!
 > Jetpack Compose is the newest tool kit released by Google for making faster and more responsive UI elements. Compose uses parameterized methods to re-compose the UI based on backend dynamics. This is a powerful method allowing only the elements that are necessary to re-draw to be recomposed!
 
 
+Download Android Studio Preview [here for this project](https://developer.android.com/studio/preview)
